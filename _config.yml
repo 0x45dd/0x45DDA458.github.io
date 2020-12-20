@@ -1,16 +1,16 @@
-title: Computer Security Blog
-description: "A Computer Security Blog For Hackers"
+title: All About Hacking, Breaking, Privacy and Self Surveillance
+description: "Security Blog For Hackers"
 author:
   name: "Berk"
-  email: "info@berk.red"
-  url: "https://berk.red"
+  email: "berkdusunurx@protonmail.com"
+  url: "https://0x45DDA458.github.io"
 
 baseurl: /
 
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 3
+paginate: 5
 paginate_path: /page/:num/
 
 defaults:
