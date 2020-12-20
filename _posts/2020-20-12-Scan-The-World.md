@@ -3,12 +3,12 @@ layout: post
 title:  "Scan The All EDU Sites in World!"
 date:   2020-12-20 06:26:01 +0300
 ---
-# [](#header-2)What is .git Folder?
+# [](#header-4)What is .git Folder?
 
 Git is a distributed version-control system for tracking changes in any set of files, originally designed for coordinating work among programmers cooperating on source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows. (Wikipedia)
 In recent years, security researchers have seen that source code can be accessed with forgotten /.git repositories on applications.
 
-# [](#header-2)What am I aiming for?
+# [](#header-4)What am I aiming for?
 
 After the research, to determine how many of the `edu` applications found in the world have source code available.
 
