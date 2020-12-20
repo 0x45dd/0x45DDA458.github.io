@@ -12,7 +12,7 @@ In recent years, security researchers have seen that source code can be accessed
 
 # [](#header-4)What am I aiming for?
 
-After the research, to determine how many of the `edu` applications found in the world have source code available. I would first make a GET /.git/config request to all edu addresses I detected. If I detect `repositoryformatversion` in the response after the request, I would save it to a file.
+After the research, to determine how many of the `edu` applications found in the world have source code available. I would first make a GET /.git/config request to all edu addresses. If I detect `repositoryformatversion` in the response, I would save it to a file.
 
 I needed to minimize the false positive result. So I needed a word that is unlikely to be in the page source but contained in .git/config 
 
