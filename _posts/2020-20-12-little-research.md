@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Little Research On /.git/config"
+title:  "A Little Research about /.git/config"
 date:   2020-12-20 06:26:01 +0300
 ---
 # [](#header-4)What is .git Folder?
