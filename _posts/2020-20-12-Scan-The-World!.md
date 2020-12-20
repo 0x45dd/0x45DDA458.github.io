@@ -1,6 +1,6 @@
 ---
 title: Scan The World!
-published: false
+published: true
 ---
 
 # [](#header-2)What is .git Folder?
