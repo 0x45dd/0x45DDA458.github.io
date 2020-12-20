@@ -50,8 +50,6 @@ I had detected 43 systems that could expose source code in about 6 minutes.
 ![](https://0x45dda458.github.io/assets/stw-3.png)
 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Follow me on [twitter! ][twitter] 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[twitter]: https://twitter.com/berkdusunur
