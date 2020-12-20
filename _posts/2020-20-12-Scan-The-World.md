@@ -45,7 +45,7 @@ The tool makes the request I mentioned above to edu addresses in the wordlist wi
 
 ![](https://0x45dda458.github.io/assets/stw-2.jpg)
 
-I had detected 43 systems that could expose source code in about 6 minutes.
+I had detected 43 web app that could expose source code in about 6 minutes.
 
 ![](https://0x45dda458.github.io/assets/stw-3.png)
 
