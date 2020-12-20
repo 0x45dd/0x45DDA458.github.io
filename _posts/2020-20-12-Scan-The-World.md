@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Scan The World!"
+title:  "Scan The All EDU Sites in World!"
 date:   2020-12-20 06:26:01 +0300
-categories: jekyll update
 ---
 # [](#header-2)What is .git Folder?
 
