@@ -38,6 +38,7 @@ I would like to thank "Associate Professor I. Berkan Aydilek" and "Numan Turle" 
 # [](#header-4)Research Time!
 
 The tool makes the request I mentioned above to edu addresses in the wordlist with 100 processes.
+
 ![](https://0x45dda458.github.io/assets/stw-1.png)
 
 # [](#header-4)Bingoooo!
