@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/berkdusunur
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://berk.red
+  * I am berkdusunur (https://keybase.io/berkdusunur) on keybase.
+  * I have a public key ASBefcKRK1McqWjdMEyQ5cldnme_os3Rc8ryO52FLNDgcwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205e7dc2912b531ca968dd304c90e5c95d9e67bfa2cdd173caf23b9d852cd0e0730a",
+      "host": "keybase.io",
+      "kid": "01205e7dc2912b531ca968dd304c90e5c95d9e67bfa2cdd173caf23b9d852cd0e0730a",
+      "uid": "fb9c9c0cac285c8e9f832448d7711719",
+      "username": "berkdusunur"
+    },
+    "merkle_root": {
+      "ctime": 1604204067,
+      "hash": "dc9dde0acaec72bf2b0d6413d3268f30a1d6dacb81f65d1917bd5e0a807d8bf79d90df54362df5bf93170b4a711e11b0fe48502266f9b76b373da1559bde8912",
+      "hash_meta": "ef2b7b0590b70cc4f9bcc8920df0763b743e4f06ff65e100c18b3abf4368cf32",
+      "seqno": 17984802
+    },
+    "service": {
+      "entropy": "gdHjRCv2qLjOE8L5A4ChC+t+",
+      "hostname": "berk.red",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1604204181,
+  "expire_in": 504576000,
+  "prev": "25220f935071f101a3be66ce2ac414585a943a97f64198e338339cfe8a16498c",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXn3CkStTHKlo3TBMkOXJXZ5nv6LN0XPK8judhSzQ4HMKp3BheWxvYWTESpcCEcQgJSIPk1Bx8QGjvmbOKsQUWFqUOpf2QZjjODOc/ooWSYzEIJTosvJLqlVmZyOEbcgJebNTw/lnZMXcRkdezdezXPoOAgHCo3NpZ8RAzdMDFSGVqct4N/u8wNZ3G5MQ1meU0M69jyNJ53u8R2lqFjuwjgq1jjBeua5gUFJKZo2Qq22S/DVwp80zuGWeD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEID2ABVADyM8dlu1FvDMt7VmjKXPipckBnH9p8jvhzSudo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/berkdusunur
+
+==================================================================
