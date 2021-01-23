@@ -94,7 +94,7 @@ m = 117
 ```js
 m^e = 117^3 == 145mod(187) 
 ```
-The result is 145. Hex equivalent of 145 is "e". Thus, the letter "u" was encrypted with RSA and transmitted to the other party as "e".
+The result is 145. Hex equivalent of 145 is "meta char in ascii table". Thus, the letter "u" was encrypted with RSA and transmitted to the other party as "meta char".
 
 
 ## [](#header-3)Decryption
