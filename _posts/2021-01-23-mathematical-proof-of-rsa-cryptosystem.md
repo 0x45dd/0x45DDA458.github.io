@@ -106,3 +106,6 @@ c^d = 145^107 == 117mod(187)
 117 ASCII to HEX = U
 
 
+## [](#header-3) Watch to Understand Better
+
+![]({https://www.youtube.com/watch?v=4zahvcJ9glg})
