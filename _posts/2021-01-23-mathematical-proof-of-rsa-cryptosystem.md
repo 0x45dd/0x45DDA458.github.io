@@ -58,6 +58,13 @@ dkpr^(y) = (x^∮(n))^t.x = 1^t.x == x(modn)
 We mentioned that n must be a prime number. So if we accept the structure (x, q.p), x must contain p and q as a factor.
 
 
+## [](#header-3)ASCII Table
+
+![](https://cdn.sciencebuddies.org/references/ascii-table.png)
+
+The ASCII equivalent of the letter U is 117. in that case
+
+
 ## [](#header-3)Let's encrypt things!
 
 If we want to encrypt the letter "U" as an example, we need two prime numbers as in the proof.
@@ -80,4 +87,22 @@ de = 1mod(T(n))d = 107 de == 321
 ```js
 Our public keys n=187 e=3
 ```
+
+```js
+m = 117
+```
+```js
+m^e = 117^3 == 145mod(187) 
+```
+The result is 145. Hex equivalent of 145 is "e". Thus, the letter "u" was encrypted with RSA and transmitted to the other party as "e".
+
+
+## [](#header-3)Decryption
+
+```js
+c^d = 145^107 == 117mod(187) 
+```
+
+117 ASCII to HEX = U
+
 
