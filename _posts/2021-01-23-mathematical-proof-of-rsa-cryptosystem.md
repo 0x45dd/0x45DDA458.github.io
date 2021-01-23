@@ -108,4 +108,4 @@ c^d = 145^107 == 117mod(187)
 
 ## [](#header-3) Watch to Understand Better
 
-![]({https://www.youtube.com/watch?v=4zahvcJ9glg})
+URL: https://www.youtube.com/watch?v=4zahvcJ9glg
