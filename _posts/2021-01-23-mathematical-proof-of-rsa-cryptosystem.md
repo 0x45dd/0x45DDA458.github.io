@@ -1,10 +1,7 @@
-
 ---
-layout: post
 title: Mathematical Proof of RSA CryptoSystem!
-date:   2021-01-23 06:26:01 +0300
+published: true
 ---
-
 ## [](#header-3)Before Start
 
 I present my sincere love to N.I.H.O. for giving me the motivation to write this article. Another thanks will be to Academician Umut Kuran. He is the best computer scientist I know. He is also a very good mathematician. I'm grateful for everything he did for me
@@ -58,21 +55,29 @@ gcd(x,n) = >>> because of the houses theorem x^∮(n) == 1(modn)
 dkpr^(y) = (x^∮(n))^t.x = 1^t.x == x(modn)
 ```
 
-n'in asal sayı olması gerektiğinden bahsetmiştik. Yani yapıyı (x,q.p) kabul edersek x, p ve q'yu çarpan olarak içermelidir.
+We mentioned that n must be a prime number. So if we accept the structure (x, q.p), x must contain p and q as a factor.
 
 
-## [](#header-3)Bir şeyleri şifreleyelim!
+## [](#header-3)Let's encrypt things!
 
-Örnek olarak U harfini şifrelemek istersek ispattaki gibi iki adet asal sayıya ihtiyacımız var
+If we want to encrypt the letter "U" as an example, we need two prime numbers as in the proof.
 
-p=11 ve q=17 olsun 
-
-n = p.q  | n = 187
-
+```js
+p=11 ve q=17  
+```
+```js
+n = p.q n = 187
+```
+```js
 T(n) = (p-1).(q-1) = 10.6 >> T(n) == 160
-
+```
+```js
 1 < e < mod(T(n)) e = 3 
-
+```
+```js
 de = 1mod(T(n))d = 107 de == 321
+```
+```js
+Our public keys n=187 e=3
+```
 
-Yani public keyimiz n=187 e=3
