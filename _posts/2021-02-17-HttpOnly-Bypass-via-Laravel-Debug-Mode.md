@@ -1,6 +1,6 @@
 ---
 title: HttpOnly Bypass via Laravel Debug Mode!
-published: true
+published: false
 ## [](#header-3)How to work HttpOnly? 
 
 HttpOnly is a tag added to one of the HTTP headers, Cookies. If the HttpOnly flag is included in the HTTP response header, the cookie cannot be accessed through the client-side script.  
