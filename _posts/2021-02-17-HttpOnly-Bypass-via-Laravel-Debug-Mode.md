@@ -18,7 +18,11 @@ Set-Cookie `=“[; “=“]` `[; expires=“][; domain=“]` `[; path=“][; sec
 ```
 After installing the packages, we will need to configure several configurations for the firewall to function properly. I'll use Apache as a web service that will explain the Debian operating system today.
 
-After the installation is complete we will start apache2
+## [](#header-3)How to work XSS Attacks? 
+
+We understood what HttpOnly. Cross-site scripting works by manipulating a vulnerable web site so that it returns malicious JavaScript to users. When the malicious code executes inside a victim's browser, the attacker can fully compromise their interaction with the application.
+
+In this manner, Malicious JavaScript codes can steal cookies that control users' sessions.
 
 ```js
 $ service apache2 restart
