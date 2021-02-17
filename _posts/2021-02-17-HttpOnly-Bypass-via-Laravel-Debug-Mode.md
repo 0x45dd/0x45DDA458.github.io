@@ -24,10 +24,22 @@ We understood what HttpOnly. Cross-site scripting works by manipulating a vulner
 
 In this manner, Malicious JavaScript codes can steal cookies that control users' sessions.
 
+Let's talk a little bit about Laravel debug mode.
+
+## [](#header-3)Laravel Debug Mode?
+
+Laravel is a popular open-source PHP framework used to develop web applications. It has a debug mode with an interface that allows developers to identify errors and misconfiguration on the site’s network. This debug mode is intended to be used before the site goes live, but many developers failed to disable it.
+
+Set APP_DEBUG mode is true
+
 ```js
-$ service apache2 restart
+APP_NAME=Laravel
+APP_ENV=local
+APP_KEY=-
+APP_DEBUG=true
+APP_URL=http://berklocal.com
 ```
-Then let's check our required module with apachectl (a checking tool for HTTP Service).
+
 
 ```js
 $ apachectl -M |grep security 
