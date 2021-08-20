@@ -94,8 +94,11 @@ requests:
 ## [](#header-3)References & Details
 
 "url: https://www.exploit-db.com/exploits/45070"
+
 "url: https://www.rapid7.com/db/modules/exploit/multi/http/nuuo_nvrmini_upgrade_rce/"
+
 "url: https://github.com/projectdiscovery/nuclei/pull/399"
+
 "url: https://github.com/projectdiscovery/nuclei-templates/blob/master/vulnerabilities/other/nuuo-nvrmini2-rce.yaml"
 
 Follow me on twitter! @0x45d
