@@ -4,7 +4,7 @@ published: true
 ---
 ## [](#header-3)Before Start
 
-I present my sincere love to N.I.H.O. for giving me the motivation to write this article. Another thanks will be to Academician Umut Kuran. He is the best computer scientist I know. He is also a very good mathematician. I'm grateful for everything he did for me
+I present my sincere love to - for giving me the motivation to write this article. Another thanks will be to Academician Umut Kuran. He is the best computer scientist I know. He is also a very good mathematician. I'm grateful for everything he did for me
 
 ## [](#header-3)What is RSA Encryption? (Wikipedia)
 
